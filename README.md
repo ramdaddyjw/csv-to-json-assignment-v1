@@ -7,6 +7,8 @@ Version 1 of my solution to the csv-to-json assignment.
 This script requires [Node.js](https://nodejs.org/).
 
 To run the program:
+```sh
 $ cd csv-to-json-assignment-v1
 $ npm install
 $ node csvToJsonConversion.js
+```
