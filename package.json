@@ -1,0 +1,15 @@
+{
+  "name": "module01assignment",
+  "version": "1.0.0",
+  "description": "Assignment for Module 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ramdaddyjw",
+  "license": "ISC",
+  "dependencies": {
+    "convert-csv-to-json": "0.0.15",
+    "path": "0.12.7"
+  }
+}
